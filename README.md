@@ -10,6 +10,7 @@ The bank needs a comprehensive reporting solution to monitor and assess lending 
 
  Key Features
 
+
  Dashboard 1: Summary
 - Total Loan Applications (MTD & MoM analysis)
 - Total Funded Amount (MTD & MoM analysis)
