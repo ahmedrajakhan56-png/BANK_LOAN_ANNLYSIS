@@ -3,7 +3,7 @@ Financial Analytics Project: Python • SQL • Power BI • AWS*
 
 <div align="center">
   
-![Bank Banner](https://raw.githubusercontent.com/ahmedrajakhan56-png/bank-loan-analysis/main/assets/bank-banner.gif?raw=true)
+![Bank Banner](https://raw.githubusercontent.com/ahmedrajakhan56-png/BANK_LOAN_ANNLYSIS/main/assets/bank-banner.gif?raw=true)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -17,7 +17,7 @@ Financial Analytics Project: Python • SQL • Power BI • AWS*
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bank+Gothic&weight=700&size=28&duration=3000&pause=1000&color=1A4D8C&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%92%B0+%2438%2C576+Loan+Applications+Analyzed;%F0%9F%93%8A+%24435M+Total+Funded+Amount;%F0%9F%8E%AF+Business+Insights+First%2C+Tools+Second;%F0%9F%93%88+%24473M+Total+Received+Amount" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bank+Gothic&weight=700&size=28&duration=3000&pause=1000&color=1A4D8C&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%92%B0+38%2C576+Loan+Applications+Analyzed;%F0%9F%93%8A+%24435M+Total+Funded+Amount;%F0%9F%8E%AF+Business+Insights+First%2C+Tools+Second;%F0%9F%93%88+%24473M+Total+Received+Amount" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,9 +25,9 @@ Financial Analytics Project: Python • SQL • Power BI • AWS*
 ## 🎯 Project Overview
 
 <div align="center">
-  <img src="https://github.com/ahmedrajakhan56-png/bank-loan-analysis/blob/main/Screenshot%202026-03-05%20163922.png?raw=true" alt="Bank Loan Dashboard" width="95%" style="border-radius: 10px; border: 2px solid #1A4D8C;"/>
+  <img src="https://github.com/ahmedrajakhan56-png/BANK_LOAN_ANNLYSIS/blob/main/Screenshot%202026-03-05%20163922.png?raw=true" alt="Bank Loan Dashboard" width="95%" style="border-radius: 10px; border: 2px solid #1A4D8C;"/>
   <br>
-  <em>📊 Bank Loan Report - Executive Dashboard (Financial Overview)</em>
+  <em>📊 Page 1: Executive Summary Dashboard - Key Financial KPIs at a Glance</em>
 </div>
 
 <br>
@@ -60,34 +60,33 @@ Financial Analytics Project: Python • SQL • Power BI • AWS*
 
 ---
 
-## 📊 Dashboard Structure - *3-Page Report*
+## 📊 Dashboard Gallery - *3-Page Interactive Report*
 
-### 📋 Page 1: Summary Dashboard
+### 📋 Page 1: Executive Summary Dashboard
 <div align="center">
-  <img src="https://github.com/ahmedrajakhan56-png/bank-loan-analysis/blob/main/Screenshot%202026-03-05%20163922.png?raw=true" alt="Summary Dashboard" width="90%" style="border-radius: 10px; border: 2px solid #1A4D8C;"/>
+  <img src="https://github.com/ahmedrajakhan56-png/BANK_LOAN_ANNLYSIS/blob/main/Screenshot%202026-03-05%20163922.png?raw=true" alt="Summary Dashboard" width="90%" style="border-radius: 10px; border: 2px solid #1A4D8C;"/>
   <br>
   <em>📊 Executive Summary - Key KPIs at a Glance</em>
 </div>
 
- Key Metrics Displayed:
-- **Total Loan Applications**: 38,576
-- **MTD Applications**: 4,314 (+6.9% MoM)
-- **Total Funded Amount**: $435.7M
-- **MTD Funded**: $53.9M (+13% MoM)
-- **Total Received**: $473.1M
-- **MTD Received**: $58.1M (+15.8% MoM)
-- **Avg Interest Rate**: 12.05%
-- **Avg DTI**: 13.33%
-- **Good Loan %**: 83.33%
-- **Bad Loan %**: 13.82%
+#### Key Metrics Displayed:
+| KPI | Value | Trend |
+|-----|-------|-------|
+| **Total Loan Applications** | 38,576 | 📈 +6.9% MoM |
+| **Total Funded Amount** | $435.7M | 📈 +13% MoM |
+| **Total Received Amount** | $473.1M | 📈 +15.8% MoM |
+| **Avg Interest Rate** | 12.05% | 📊 Stable |
+| **Avg DTI** | 13.33% | 📈 +0.36% |
+| **Good Loan %** | 83.33% | ⭐ Excellent |
+| **Bad Loan %** | 13.82% | ⚠️ Monitor |
 
 ---
 
- Page 2: Overview Dashboard
+### 📈 Page 2: Overview Dashboard
 <div align="center">
-  <img src="https://github.com/ahmedrajakhan56-png/bank-loan-analysis/blob/main/Screenshot%202026-03-05%20163954.png?raw=true" alt="Overview Dashboard" width="90%" style="border-radius: 10px; border: 2px solid #1A4D8C;"/>
+  <img src="https://github.com/ahmedrajakhan56-png/BANK_LOAN_ANNLYSIS/blob/main/Screenshot%202026-03-05%20163954.png?raw=true" alt="Overview Dashboard" width="90%" style="border-radius: 10px; border: 2px solid #1A4D8C;"/>
   <br>
-  <em>📈 Detailed Analysis - Trends & Segments</em>
+  <em>📈 Detailed Analysis - Monthly Trends & Segments</em>
 </div>
 
 #### Key Insights from Page 2:
@@ -102,18 +101,22 @@ Financial Analytics Project: Python • SQL • Power BI • AWS*
 
 ---
 
- Page 3: Details Dashboard
+### 🔍 Page 3: Details Dashboard
 <div align="center">
-  <img src="https://github.com/ahmedrajakhan56-png/bank-loan-analysis/blob/main/Screenshot%202026-03-05%20164031.png?raw=true" alt="Details Dashboard" width="90%" style="border-radius: 10px; border: 2px solid #1A4D8C;"/>
+  <img src="https://github.com/ahmedrajakhan56-png/BANK_LOAN_ANNLYSIS/blob/main/Screenshot%202026-03-05%20164031.png?raw=true" alt="Details Dashboard" width="90%" style="border-radius: 10px; border: 2px solid #1A4D8C;"/>
   <br>
   <em>🔍 Transaction-Level View - Individual Loan Details</em>
 </div>
 
- Drill-Down Capabilities:
-- Individual loan transactions** with full details
-- **Filter by**: Grade, State, Purpose, Home Ownership
-- **Sort by**: Issue Date, Amount, Interest Rate
-- **Export functionality** for further analysis
+#### Drill-Down Capabilities:
+| Feature | Description | Business Use |
+|---------|-------------|--------------|
+| **Individual Transactions** | Each loan with full details | Loan-level analysis |
+| **Filter by Grade** | A through G grades | Risk assessment |
+| **Filter by State** | All 50 states | Geographic analysis |
+| **Filter by Purpose** | Debt consolidation, credit card, etc. | Product optimization |
+| **Filter by Home Ownership** | Rent, Mortgage, Own | Customer segmentation |
+| **Sort Functionality** | By amount, date, interest rate | Operational efficiency |
 
 ---
 
@@ -123,11 +126,11 @@ Financial Analytics Project: Python • SQL • Power BI • AWS*
 
 | Layer | Technology | Business Purpose | Why This Tool? |
 |:-----:|:----------:|:-----------------|:---------------|
-| **Data Processing** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>**Python** | Clean 38K+ loan records, calculate KPIs, handle missing data | Data quality = accurate decisions |
-| **Database** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/><br>**SQL Server** | Store loan data, run aggregations, scheduled reports | Reliable daily updates |
-| **Cloud Storage** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br>**AWS S3** | Backup loan data, enable team access | Centralized data lake |
-| **Serverless Query** | <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><br>**AWS Athena** | Run ad-hoc analysis without servers | Quick answers to business questions |
-| **Visualization** | <img src="https://img.icons8.com/color/48/000000/power-bi.png"/><br>**Power BI** | Interactive dashboards for stakeholders | Business users explore insights |
+| **Data Processing** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>**Python** | Clean 38K+ loan records, calculate KPIs, handle missing data | Data quality = accurate lending decisions |
+| **Database** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/><br>**SQL Server** | Store loan data, run aggregations, scheduled reports | Reliable daily portfolio updates |
+| **Cloud Storage** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br>**AWS S3** | Backup loan data, enable team access | Centralized data lake for compliance |
+| **Serverless Query** | <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><br>**AWS Athena** | Run ad-hoc analysis without servers | Quick answers to risk questions |
+| **Visualization** | <img src="https://img.icons8.com/color/48/000000/power-bi.png"/><br>**Power BI** | Interactive dashboards for stakeholders | Business users explore portfolio |
 
 </div>
 
@@ -1079,7 +1082,7 @@ print("📈 Power BI can connect directly to Athena for live dashboards")
 ## 📊 Power BI - *Interactive Loan Dashboard*
 
 <div align="center">
-  <img src="https://github.com/ahmedrajakhan56-png/bank-loan-analysis/blob/main/Screenshot%202026-03-05%20163922.png?raw=true" alt="Bank Loan Dashboard" width="95%" style="border-radius: 10px; border: 2px solid #1A4D8C;"/>
+  <img src="https://github.com/ahmedrajakhan56-png/BANK_LOAN_ANNLYSIS/blob/main/Screenshot%202026-03-05%20163922.png?raw=true" alt="Bank Loan Dashboard" width="95%" style="border-radius: 10px; border: 2px solid #1A4D8C;"/>
   <br>
   <em>📊 Page 1: Executive Summary Dashboard</em>
 </div>
@@ -1336,18 +1339,6 @@ CALCULATE(
 
 ---
 
-## 📊 Dashboard Gallery Summary
-
-| Page | Dashboard | Description | Key Insights | Link |
-|:----:|:---------:|:-----------:|:------------:|:----:|
-| **1** | **Summary Dashboard** | Executive KPIs, MTD/PMTD comparison, good/bad loan breakdown | 38,576 apps, $435M funded, $473M received | [View](https://github.com/ahmedrajakhan56-png/bank-loan-analysis/blob/main/Screenshot%202026-03-05%20163922.png?raw=true) |
-| **2** | **Overview Dashboard** | Monthly trends, regional analysis, term analysis, grade analysis | Peak in Dec, CA leads, 36 months preferred | [View](https://github.com/ahmedrajakhan56-png/bank-loan-analysis/blob/main/Screenshot%202026-03-05%20163954.png?raw=true) |
-| **3** | **Details Dashboard** | Transaction-level view, drill-down by filters | Individual loan details with sorting | [View](https://github.com/ahmedrajakhan56-png/bank-loan-analysis/blob/main/Screenshot%202026-03-05%20164031.png?raw=true) |
-
-</div>
-
----
-
 ## 🎯 Business Recommendations
 
 <div align="center">
@@ -1367,7 +1358,7 @@ CALCULATE(
 ## 📁 Project Structure
 
 ```
-bank-loan-analysis/
+BANK_LOAN_ANNLYSIS/
 ├── 📁 data/
 │   ├── 📁 raw/                 # 38,576 loan records
 │   └── 📁 processed/           # Cleaned & feature-engineered
@@ -1395,12 +1386,22 @@ bank-loan-analysis/
 
 ---
 
+## 📸 Dashboard Gallery Summary
+
+| Page | Dashboard | Description | Key Insights | Link |
+|:----:|:---------:|:-----------:|:------------:|:----:|
+| **1** | **Summary Dashboard** | Executive KPIs, MTD/PMTD comparison, good/bad loan breakdown | 38,576 apps, $435M funded, $473M received | [View](https://github.com/ahmedrajakhan56-png/BANK_LOAN_ANNLYSIS/blob/main/Screenshot%202026-03-05%20163922.png?raw=true) |
+| **2** | **Overview Dashboard** | Monthly trends, regional analysis, term analysis, grade analysis | Peak in Dec, CA leads, 36 months preferred | [View](https://github.com/ahmedrajakhan56-png/BANK_LOAN_ANNLYSIS/blob/main/Screenshot%202026-03-05%20163954.png?raw=true) |
+| **3** | **Details Dashboard** | Transaction-level view, drill-down by filters | Individual loan details with sorting | [View](https://github.com/ahmedrajakhan56-png/BANK_LOAN_ANNLYSIS/blob/main/Screenshot%202026-03-05%20164031.png?raw=true) |
+
+---
+
 ## 🚀 Quick Start Guide
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ahmedrajakhan56-png/bank-loan-analysis.git
-cd bank-loan-analysis
+git clone https://github.com/ahmedrajakhan56-png/BANK_LOAN_ANNLYSIS.git
+cd BANK_LOAN_ANNLYSIS
 
 # 2. Install Python dependencies
 pip install -r requirements.txt
@@ -1470,7 +1471,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedrajakhan56@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-raja-khan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedrajakhan56-png)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ahmedrajakhan56-png)
 
 **Ahmed Raja Khan**  
 *Data Analyst | Python | SQL | Power BI | AWS | Financial Analytics*
@@ -1486,7 +1486,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   
 ### ⭐ *If you found this financial analytics project helpful, please consider giving it a star!*
 
-<img src="https://raw.githubusercontent.com/ahmedrajakhan56-png/bank-loan-analysis/main/assets/bank-footer.gif?raw=true" width="200"/>
+<img src="https://raw.githubusercontent.com/ahmedrajakhan56-png/BANK_LOAN_ANNLYSIS/main/assets/bank-footer.gif?raw=true" width="200"/>
 
 *Last Updated: March 2026*
 
